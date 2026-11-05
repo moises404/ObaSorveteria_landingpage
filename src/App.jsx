@@ -317,7 +317,7 @@ function App() {
       <button
         onClick={() => setModalAberto(true)}
         aria-label="Ver carrinho de compras"
-        className="fixed bottom-5 left-1/2 -translate-x-1/2 bg-[#E85285] hover:bg-[#d43f72] z-[90] w-14 h-14 md:w-16 md:h-16 rounded-full flex items-center justify-center text-white shadow-2xl hover:scale-110 transition-all duration-300 group cursor-pointer"
+        className="fixed bottom-15 left-1/2 -translate-x-1/2 bg-[#E85285] hover:bg-[#d43f72] z-[90] w-14 h-14 md:w-16 md:h-16 rounded-full flex items-center justify-center text-white shadow-2xl hover:scale-110 transition-all duration-300 group cursor-pointer"
       >
         <i className="fa-solid fa-cart-shopping text-xl md:text-2xl"></i>
         {totalItens > 0 && (
