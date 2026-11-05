@@ -298,6 +298,7 @@ function App() {
           </a>
         </div>
       </footer>
+      
 
       {/* Botão Flutuante do WhatsApp */}
       <a
